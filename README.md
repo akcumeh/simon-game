@@ -10,6 +10,7 @@ This [Simon](https://www.udemy.com/course/the-complete-web-development-bootcamp/
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Improvements](#improvements)
   - [Continued development](#continued-development)
 - [Author](#author)
 
@@ -44,6 +45,12 @@ I've been learning a lot in this course, and in the last two sections where we h
     * create basic animations of any HTML element - using methods like ```.fadeIn()```, ```.fadeOut()```, ```.slideUp()```, ```.slideDown()```, ```.animate({<property>: <numericValue>})```, etc.
     among other tricks.
 - a reinforced understanding of anonymous functions declared with ```function() {}```.
+
+### Improvements
+- **I included a "How to" section in the website.** Before this project, I had never encountered the Simon game, so I found it quite annoying, both to play and to code. So I've decided to make it easier and more accessible for those who are like me in having never played the game, by making it easy for them to understand right off the bat.
+- **I sped up the game a little bit.** One of the things I found pretty bothersome about the game was how slow it was in producing the next sequence for the user to continue playing. Staying true to my improvmement mission included speeding up the game for a better experience.
+
+I also planned to change the sounds of the game as they were too jarring, but that may have to be for some other time.
 
 ### Continued development
 
